@@ -8,7 +8,7 @@ The first chart displays the success rate of theater Kickstarter campaigns in th
 
   ![Success Rate of US Theater](Success%20Rate%20of%20US%20Theater.png)
   
->The chart above shows that from years 2009 - 2017, there were over 900 theater kickstarter campaigns in the US. Out of those campaigns 26 were canceled, 349 failed and 525 were successful. In conclusion, majority of kickstarter theater campaigns in the US are deemed successfull.The chart belows looks at a subcategory of theater, plays.
+>The chart above shows that from years 2009 - 2017, there were over 900 theater kickstarter campaigns in the US. Out of those campaigns 26 were canceled, 349 failed and 525 were successful. In conclusion, majority of kickstarter theater campaigns in the US are deemed successful.The chart belows looks at a subcategory of theater, plays.
  
   ![Success Rate of Plays in the US](Success%20Rate%20of%20US%20Plays.png)
 
