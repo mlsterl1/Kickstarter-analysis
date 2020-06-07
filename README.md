@@ -16,8 +16,7 @@ In this first chart we take an overall look at the Success Rate of Theater Kicks
 >Now we will take a look at success rates of theater based on launch date and success of plays based on total campaing goal.
 
   ![Outcomes of US Theater Based on Launch Date]()
-  ![Success Rates of US Plays based on Goal Dollar Amount]()
-
+  ![Success Rates of US Plays based on Goal Dollar Amount](Success%20,%20Fail%20and%20Cancel%20Rates%20of%20Plays%20Based%20on%20Pledge%20Dollar%20Amount.png)
 >We can observe that the timing of the launch date does corelate with the success of the campaing. December being the least successful month , most likely due to the Holidays and May being the most successfull month.
 >As far as expected pledge dollars impacts on campaings , campaigns with within a goal of 1 to 5,000 USD have the greatest probablity of being successful with over 80% success under 1,000.00 USD
 
