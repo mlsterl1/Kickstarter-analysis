@@ -14,9 +14,9 @@ In this first chart we take an overall look at the Success Rate of Theater Kicks
 
 >This chart illustrates that out of the 912 theater category 671 were plays and 412 of those plays were successful while 250 failed.
 >Now we will take a look at success rates of theater based on launch date and success of plays based on total campaing goal.
-Success Rates of US Plays based on Goal Dollar Amount
+
   ![Outcomes of US Theater Based on Launch Date](Success%20%20Fail%20and%20Cancel%20Rates%20of%20Plays%20Based%20on%20Pledge%20Dollar%20Amount.png)
-  Outcomes%20of%20US%20Theater%20based%20on%20launch%20date.png
+
  >We can see from the cart that the most successful campaigns are launched in May while the least succesful are launched in December.
  
   ![Success Rates of US Plays based on Goal Dollar Amount](Outcomes%20of%20US%20Theater%20based%20on%20launch%20date.png)
